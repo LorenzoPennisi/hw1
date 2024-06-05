@@ -1,0 +1,191 @@
+
+1
+Titolo: Scheda Video MSI GeForce RTX 4080 SUPER GAMING X SLIM 16G DLSS3
+
+Descrizione: 
+INTERFACCIA 
+PCI Express® Gen 4
+
+CORE CLOCK Prestazioni estreme: 2625 MHz (MSI Center) Boost: 2610 MHz (modalità GAMING e SILENT)
+
+CORE CUDA®​ 10240 unità
+
+VELOCITÀ DELLA MEMORIA 23 Gbps
+
+MEMORIA DDR6X da 16 GB, BUS DELLA MEMORIA 256 bit
+
+INTERFACCE VIDEO
+
+DisplayPort x 2 (v1.4a) HDMI™ x 2 (supporta 4K a 120 Hz HDR, 8K a 60 Hz HDR e frequenza di aggiornamento variabile come specificato in HDMI 2.1a), CONSUMO DI ENERGIA 320 W
+
+DIMENSIONE DELLA SCHEDA (MM) 322 x 136 x 62 mm 
+
+Categoria: Scheda video
+
+Prezzo: 1169,00
+
+Img_Path: 
+- prodotti/immagini_prodotti/Scheda Video MSI GeForce RTX 4080 SUPER GAMING X SLIM 16G DLSS3
+- prodotti/immagini_prodotti/Scheda Video MSI GeForce RTX 4080 SUPER GAMING X SLIM 16G DLSS3 2
+- prodotti/immagini_prodotti/Scheda Video MSI GeForce RTX 4080 SUPER GAMING X SLIM 16G DLSS3 3
+
+
+2
+Titolo: Scheda Video MSI GeForce RTX 4070 SUPER VENTUS 2X OC 12G DLSS3
+
+Descrizione: 
+Boost Clock / Velocità di memoria
+2505 MHz / 21 Gbps
+12GB GDDR6X
+DisplayPort x 3 (v1.4a)
+HDMI™ x 1 (Supporta 4K@120Hz HDR, 8K@60Hz HDR, e frequenza di aggiornamento variabile come specificato in HDMI™ 2.1a)
+
+Design termico a doppia ventola
+
+TORX Fan 4.0: Massimizza le prestazioni grazie al design delle ventole realizzate per creare livelli senza precedenti di pressione dell’aria focalizzata.
+Core Pipe: I tubi di calore realizzati con precisione garantiscono il massimo contatto con la GPU e diffondono il calore su tutta la lunghezza del dissipatore di calore.
+Zero Frozr: Le ventole si fermano completamente quando le temperature sono relativamente basse, eliminando ogni rumore.
+
+Backplate rinforzato
+
+La piastra posteriore di rinforzo presenta un design a flusso continuo che fornisce una ventilazione aggiuntiva.
+
+Prezzo: 659,00
+
+Img_Path:
+prodotti/immagini_prodotti/Titolo: Scheda Video MSI GeForce RTX 4070 SUPER VENTUS 2X OC 12G DLSS3 1
+
+prodotti/immagini_prodotti/Titolo: Scheda Video MSI GeForce RTX 4070 SUPER VENTUS 2X OC 12G DLSS3 2
+
+prodotti/immagini_prodotti/Titolo: Scheda Video MSI GeForce RTX 4070 SUPER VENTUS 2X OC 12G DLSS3 3
+
+
+Categoria: Scheda Video
+
+
+
+
+3
+Titolo: 
+
+Descrizione:
+
+Prezzo:
+
+Img_Path: 
+- prodotti/immagini_prodotti/
+
+Categoria:
+
+
+
+
+Titolo:
+
+Descrizione:
+
+Prezzo:
+
+
+Img_Path: 
+- prodotti/immagini_prodotti/
+
+Categoria:
+
+
+
+Titolo:
+
+Descrizione:
+
+Prezzo:
+
+Img_Path: 
+- prodotti/immagini_prodotti/
+
+Categoria:
+
+
+Titolo:
+
+Descrizione:
+
+Prezzo:
+
+
+Img_Path: 
+- prodotti/immagini_prodotti/
+
+Categoria:
+
+
+Titolo:
+
+Descrizione:
+
+Prezzo:
+
+
+Img_Path: 
+- prodotti/immagini_prodotti/
+
+Categoria:
+
+
+Titolo:
+
+Descrizione:
+
+Prezzo:
+
+
+Img_Path: 
+- prodotti/immagini_prodotti/
+
+Categoria:
+
+
+Titolo:
+
+Descrizione:
+
+Prezzo:
+
+
+Img_Path: 
+- prodotti/immagini_prodotti/
+
+Categoria:
+
+
+Titolo:
+
+Descrizione:
+
+Prezzo:
+
+
+Img_Path: 
+- prodotti/immagini_prodotti/
+
+Categoria:
+
+
+Titolo:
+
+Descrizione:
+
+Prezzo:
+
+Categoria:
+
+
+Titolo:
+
+Descrizione:
+
+Prezzo:
+
+Categoria:
+
+
